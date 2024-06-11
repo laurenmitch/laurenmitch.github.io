@@ -4,9 +4,9 @@
   show: true
   external: true
   id: desktop
-- title: GitHub CLI
-  description: Designing GitHub for your&nbsp;terminal
-  url: https://www.youtube.com/watch?v=zsjeZZVAk1E&ab_channel=Figma
+- title: GitHub Data Science Portfolio
+  description: A selection of some of my early data science projects.
+  url: https://github.com/laurenmitch/DataSciencePortfolio
   show: true
   external: true
   id: cli
@@ -19,7 +19,7 @@
 - title: Kleo
   description: An award-winning, beginner-inclusive app for art museums
   url: /project/museum
-  show: true
+  show: false
   external: false
   id: kleo
   site: https://invis.io/VB9OO63AY#/210571241_Home
