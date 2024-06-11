@@ -1,6 +1,6 @@
-- title: GitHub Desktop
-  description: Lowering the barrier of entry to git and software development
-  url: http://desktop.github.com
+- title: AI Assignment Generator
+  description: Helping instructors move from learning objectives to digital assignments faster. 
+  url: https://openclass.ai/
   show: true
   external: true
   id: desktop
@@ -26,13 +26,13 @@
 - title: Baudelaire
   description: A modern transitional serif&nbsp;typeface
   url: /project/baudelaire
-  show: true
+  show: false
   external: false
   id: baudelaire
 - title: Reading
   description: Books I've read and where I read&nbsp;them
   url: reading
-  show: true
+  show: false
   external: false
   id: read
 - title: Anonymous Was A Woman
