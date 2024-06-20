@@ -31,7 +31,7 @@
   id: baudelaire
 - title: Data Visualization
   description: An abbreviated look at my journey with Data Visualization. 
-  url: reading
+  url: visualization
   show: true
   external: false
   id: read
