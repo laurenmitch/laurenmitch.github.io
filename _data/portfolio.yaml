@@ -16,7 +16,7 @@
   show: false
   external: true
   id: experiments
-- title: Data Visualization
+- title: Visualization
   description: An abbreviated look at my journey with Data Visualization. 
   url: /project/visualization
   show: true

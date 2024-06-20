@@ -1,6 +1,6 @@
 ---
-title: Lauren Mitchell | Data Visualization
-tag: Data Visualization
+title: Lauren Mitchell | Visualization
+tag: Visualization
 type: project
 layout: project
 image: "/img/og-img.png"
