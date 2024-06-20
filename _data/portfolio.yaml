@@ -8,7 +8,7 @@
   description: A selection of some of my early data science projects.
   url: https://github.com/laurenmitch/DataSciencePortfolio
   show: true
-  external: true
+  external: false
   id: cli
 - title: GitHub Experiments
   description: Showcasing experimental machine learning research
@@ -25,7 +25,7 @@
 - title: Baudelaire
   description: A modern transitional serif&nbsp;typeface
   url: /project/baudelaire
-  show: true
+  show: false
   external: false
   id: baudelaire
 - title: Reading
@@ -43,6 +43,6 @@
 - title: Fine Art
   description: A collection of my high school fine art
   url: /project/fine-art
-  show: true
+  show: false
   external: false
   id: art
