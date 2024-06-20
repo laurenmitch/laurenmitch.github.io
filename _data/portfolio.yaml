@@ -31,7 +31,7 @@
   id: baudelaire
 - title: Reading
   description: Books I've read and where I read&nbsp;them
-  url: data-viz
+  url: reading
   show: true
   external: false
   id: read
