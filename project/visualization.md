@@ -1,18 +1,19 @@
 ---
 title: Lauren Mitchell | Visualization
-tag: Visualization
+tag: visualization
 type: project
 layout: project
 image: "/img/og-img.png"
 ---
 
-
+# Data Visualization
+My love of data viz
 
 {:.full}
-![Kleo cover image](/img/full/museum1.png)
+![Kleo cover image](/img/full/visualizaton_for_mom.pdf)
 
-# Background
-A team of four students (Emily O'Brien, Evan McEldowney, Alice Young and Beatrice Huang) and I set out to explore the question: How might we create a memorable and accessible experience for novice visitors that creates interest and conversation between visitors and the museum itself?
+# Figure 1: PCE in Groundwater May 2012
+In the early days of my career as a geologist, I conducted fieldwork collecting groundwater samples and then mapped those samples’ chemical concentrations using ArcGIS. This environmental consulting figure represents this foundational data visualization work.
 
 ### How might we...
 - bridge the gap between physical and digital?
