@@ -17,12 +17,11 @@
   external: true
   id: experiments
 - title: Visualization
-  description: An abbreviated look at my journey with Data Visualization. 
+  description: An abbreviated look at my journey with data visualization. 
   url: /project/visualization
   show: true
   external: false
   id: kleo
-  site: https://invis.io/VB9OO63AY#/210571241_Home
 - title: Baudelaire
   description: A modern transitional serif&nbsp;typeface
   url: /project/baudelaire

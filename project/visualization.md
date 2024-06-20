@@ -6,9 +6,6 @@ layout: project
 image: "/img/og-img.png"
 ---
 
-# Data Visualization
-In this section, I'll take you through a chronological journey of how I developed an interest in data visualization and share some of the projects I've worked on along the way.
-
 {:.full}
 ![PCE in Groundwater Visualization](/img/full/viz_water.png)
 
