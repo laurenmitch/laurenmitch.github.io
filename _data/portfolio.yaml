@@ -29,8 +29,8 @@
   show: false
   external: false
   id: baudelaire
-- title: Reading
-  description: Books I've read and where I read&nbsp;them
+- title: Data Visualization
+  description: An abbreviated look at my journey with Data Visualization. 
   url: reading
   show: true
   external: false
