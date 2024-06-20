@@ -26,7 +26,7 @@
 - title: Baudelaire
   description: A modern transitional serif&nbsp;typeface
   url: /project/baudelaire
-  show: false
+  show: true
   external: false
   id: baudelaire
 - title: Reading
@@ -44,6 +44,6 @@
 - title: Fine Art
   description: A collection of my high school fine art
   url: /project/fine-art
-  show: false
+  show: true
   external: false
   id: art
