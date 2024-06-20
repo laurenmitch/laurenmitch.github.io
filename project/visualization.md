@@ -25,7 +25,23 @@ This was one of my first explorations into creating more stylized data visualiza
 As a retirement gift for my mom, who plans her travels years ahead, I transformed her itineraries into a poster using ArcGIS and Adobe Illustrator, which I then attached to a corkboard for her office. This personal project is close to my heart, showcasing how data visualization can capture personal histories and futures.
 
 {:.full}
+![Veggie Visualization](/img/full/viz_veg.png)
+
+## Vegetable Planting Guide
+This data visualization answers the question: When is the best time to plant in your Coastal Northern California vegetable garden? 
+
+The traditional 12 month calendar was converted into a circle to represent the continuous nature of time and the planting cycle. The data for this project was acquired online from Table 14.2, pages 351-352 in California Master Gardener Handbook. Nancy Garrison and Dennis R. Pittenger. 2002.
+
+{:.full}
 ![Studio Albums Visualization](/img/full/viz_studio.png)
 
 ## Studio Album Release Dates
 This simple visualization of album release dates tells the complex story of these classic rock bands and the impact they’ve had on music history.
+
+{:.full}
+![Vehicle Visualization](/img/full/viz_car.png)
+
+## The Rise of the Electric Vehicle in the U.S.
+This visualization tells the story of the electric vehicle in the us over approximately the past decade. In 2000 hybrid vehicles were first sold and took off. In 2010 electric and plug-in hybrid electric vehicles were introduced to the Market. Hybrid Electric vehicles still outnumber electric and pug-in hybrid electric. 
+
+The data for this visualized was sourced from the National Transportation Statistics 2021 Annual Report, which is a publicly available document. 
