@@ -1,6 +1,6 @@
 ---
-title: Amanda Pinsker | Kleo
-tag: Kleo
+title: Lauren Mitchell | Visualization
+tag: Visualization
 type: project
 layout: project
 image: "/img/og-img.png"
