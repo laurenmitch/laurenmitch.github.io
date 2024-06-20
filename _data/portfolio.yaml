@@ -19,7 +19,7 @@
 - title: Kleo
   description: An award-winning, beginner-inclusive app for art museums
   url: /project/museum
-  show: false
+  show: true
   external: false
   id: kleo
   site: https://invis.io/VB9OO63AY#/210571241_Home
@@ -31,14 +31,14 @@
   id: baudelaire
 - title: Data Visualization
   description: An abbreviated look at my journey with Data Visualization. 
-  url: visualization
+  url: reading
   show: true
   external: false
   id: read
 - title: Anonymous Was A Woman
   description: Social campaign about implicit bias
   url: /project/anonymous-was-a-woman
-  show: false
+  show: true
   external: false
   id: awaw
 - title: Fine Art
