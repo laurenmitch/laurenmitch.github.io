@@ -32,7 +32,7 @@
 - title: Reading
   description: Books I've read and where I read&nbsp;them
   url: reading
-  show: false
+  show: true
   external: false
   id: read
 - title: Anonymous Was A Woman
