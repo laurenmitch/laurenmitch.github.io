@@ -10,7 +10,7 @@ image: "/img/og-img.png"
 My love of data viz
 
 {:.full}
-![Travel Visualization](/img/full/visualizaton_for_mom.png)
+![Travel Visualization](/img/full/visualization_for_mom.png)
 
 # Figure 1: PCE in Groundwater May 2012
 In the early days of my career as a geologist, I conducted fieldwork collecting groundwater samples and then mapped those samples’ chemical concentrations using ArcGIS. This environmental consulting figure represents this foundational data visualization work.
