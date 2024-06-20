@@ -16,9 +16,9 @@
   show: false
   external: true
   id: experiments
-- title: Kleo
-  description: An award-winning, beginner-inclusive app for art museums
-  url: /project/museum
+- title: Data Visualization
+  description: An abbreviated look at my journey with Data Visualization. 
+  url: /project/visualization
   show: true
   external: false
   id: kleo
@@ -29,16 +29,16 @@
   show: false
   external: false
   id: baudelaire
-- title: Data Visualization
+- title: Reading
   description: An abbreviated look at my journey with Data Visualization. 
   url: reading
-  show: true
+  show: false
   external: false
   id: read
 - title: Anonymous Was A Woman
   description: Social campaign about implicit bias
   url: /project/anonymous-was-a-woman
-  show: true
+  show: false
   external: false
   id: awaw
 - title: Fine Art
