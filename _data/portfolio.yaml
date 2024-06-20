@@ -1,15 +1,22 @@
-- title: AI Assignment Generator
-  description: Helping instructors move from learning objectives to digital assignments faster. 
-  url: https://openclass.ai/
+- title: Reading
+  description: Books I've read and where I read&nbsp;them
+  url: reading
   show: true
-  external: true
+  external: false
+  id: read
   id: desktop
 - title: GitHub Data Science Portfolio
   description: A selection of some of my early data science projects.
   url: https://github.com/laurenmitch/DataSciencePortfolio
   show: true
-  external: true
+  external: false
   id: cli
+  - title: AI Assignment Generator
+  description: Helping instructors move from learning objectives to digital assignments faster. 
+  url: https://openclass.ai/
+  show: true
+  external: true
+  id: desktop
 - title: GitHub Experiments
   description: Showcasing experimental machine learning research
   url: http://experiments.github.com
@@ -29,12 +36,6 @@
   show: false
   external: false
   id: baudelaire
-- title: Reading
-  description: Books I've read and where I read&nbsp;them
-  url: reading
-  show: false
-  external: false
-  id: read
 - title: Anonymous Was A Woman
   description: Social campaign about implicit bias
   url: /project/anonymous-was-a-woman
