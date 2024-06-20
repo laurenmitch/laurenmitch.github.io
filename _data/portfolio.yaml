@@ -1,27 +1,27 @@
-- title: Visualization
-  description: An abbreviated look at my journey with data visualization. 
-  url: /project/visualization
-  show: true
-  external: false
-  id: kleo
-  - title: GitHub Data Science Portfolio
-  description: A selection of some of my early data science projects.
-  url: https://github.com/laurenmitch/DataSciencePortfolio
-  show: true
-  external: false
-  id: cli
 - title: AI Assignment Generator
   description: Helping instructors move from learning objectives to digital assignments faster. 
   url: https://openclass.ai/
   show: true
   external: true
   id: desktop
+- title: GitHub Data Science Portfolio
+  description: A selection of some of my early data science projects.
+  url: https://github.com/laurenmitch/DataSciencePortfolio
+  show: true
+  external: false
+  id: cli
 - title: GitHub Experiments
   description: Showcasing experimental machine learning research
   url: http://experiments.github.com
   show: false
   external: true
   id: experiments
+- title: Visualization
+  description: An abbreviated look at my journey with data visualization. 
+  url: /project/visualization
+  show: true
+  external: false
+  id: kleo
 - title: Baudelaire
   description: A modern transitional serif&nbsp;typeface
   url: /project/baudelaire
