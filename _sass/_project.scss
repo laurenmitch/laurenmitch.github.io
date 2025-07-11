@@ -87,7 +87,8 @@
 
   img {
     width: 100%;
-
+    max-width: 80%;
+  
     @include mq($tablet) {
       margin-top: 52px;
     }
