@@ -36,43 +36,33 @@ function removeClass(element, nameOfClass) {
 
 // Easter egg
 
-// I super got this from stack overflow
-
 var allowedKeys = {
+  76: 'l',
   65: 'a',
-  77: 'm',
+  85: 'u',
+  82: 'r',
+  69: 'e',
   78: 'n',
-  68: 'd',
 };
 
-var amanamiCode = ['a', 'm', 'a', 'n', 'd', 'a'];
+var laurenCode = ['l', 'a', 'u', 'r', 'e', 'n'];
+var laurenCodePosition = 0;
 
-// a variable to remember the 'position' the user has reached so far.
-var amanamiCodePosition = 0;
-
-// add keydown event listener
-document.addEventListener('keydown', function(e) {
-  // get the value of the key code from the key map
+document.addEventListener('keydown', function (e) {
   var key = allowedKeys[e.keyCode];
-  // get the value of the required key from the amanami code
-  var requiredKey = amanamiCode[amanamiCodePosition];
+  var requiredKey = laurenCode[laurenCodePosition];
 
-  // compare the key with the required key
   if (key == requiredKey) {
-
-    // move to the next key in the amanami code sequence
-    amanamiCodePosition++;
-
-    // if the last key is reached, activate cheats
-    if (amanamiCodePosition == amanamiCode.length) {
+    laurenCodePosition++;
+    if (laurenCodePosition == laurenCode.length) {
       activateCheats();
-      amanamiCodePosition = 0;
+      laurenCodePosition = 0;
     }
   } else {
-    amanamiCodePosition = 0;
+    laurenCodePosition = 0;
   }
 });
 
 function activateCheats() {
-  body.classList.add("easter-egg");
+  body.classList.add('easter-egg');
 }
