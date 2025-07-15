@@ -1,3 +1,9 @@
+- title: Oakland Crimewatch Dashboards
+  description: Visualizing Oakland crime data using the City of Oakland’s open data API and Knowi’s platform.
+  url: https://www.knowi.com/d/lCr8AgwmhRVUOFKWbJI4f5m3pCfz5YkQaqG2Y7yec3gie
+  show: true
+  external: true
+  id: oakland
 - title: AI Assignment Generator
   description: Helping instructors move from learning objectives to digital assignments faster. 
   url: https://openclass.ai/
