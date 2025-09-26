@@ -6,14 +6,27 @@ layout: project
 image: "/img/og-img.png"
 ---
 
-## Where It All Began
+# Building an AI-Powered Assignment Generator
 
-At OpenClass, I assumed the role of AI engineer after completing a study of machine learning. I focused on leveraging OpenAI models through LangChain and the OpenAI API, using few-shot prompting to provide the model with high-quality examples and streamline the generation of student assignments.
+When I joined **OpenClass** as an AI Engineer, I wanted to explore how large language models could make instructors’ work easier. After completing a focused study in machine learning, I began experimenting with **OpenAI models**, **LangChain**, and the **OpenAI API** to create tools that could generate educational content more efficiently. My early experiments with **few-shot prompting** showed promise, but I wanted to take things further by embedding this intelligence directly into the teaching platform.
 
-The core challenge was twofold: instructors often struggled to generate high-quality questions and "distractor" answers, and integrating large language models into existing teaching workflows required constant copying and pasting between platforms. I designed and implemented a system that allowed instructors to input learning objectives and automatically generate relevant multiple choice and short answer questions, directly in OpenClass's teaching platform.
+## Understanding the Problem
 
-To ensure outputs were reliable and aligned with expectations, I incorporated extensive manual fact-checking and integrated the pydantic library into my workflow. This allowed me to build a Python class that validated outputs for the correct data format, maintaining consistency and accuracy across all generated content.
+Instructors faced two main challenges. First, creating strong multiple choice questions with well-constructed distractor answers was time-consuming and inconsistent. Second, using AI tools in their workflows meant juggling multiple platforms and copying content back and forth. I wanted to solve both problems with a single, integrated solution.
 
-From conception to full implementation, the project took approximately four months. The result was a system that significantly reduced friction for instructors, allowing them to focus on teaching and research. The project was met with strong enthusiasm from both teachers and students, and final engineering integration into the OpenClass platform was handled by my co-worker Alec.
+## Designing the Solution
 
-Here is a video expalinaig the project to users: [![Watch the video](https://img.youtube.com/vi/MidtF8TrSLU/0.jpg)](https://www.youtube.com/watch?v=MidtF8TrSLU)
+I built a system that allowed instructors to input **learning objectives** and automatically generate **multiple choice** and **short answer** questions aligned with those objectives. The tool was designed to live inside the OpenClass platform, so instructors could stay in one place while building their lessons.
+
+To ensure the model’s outputs were consistent and trustworthy, I built a **validation layer** using **Pydantic**. This Python library let me define a strict data schema for the model’s responses, catching errors before they reached users. I also implemented a **manual review process** during testing to refine prompts and ensure quality before deployment.
+
+## The Outcome
+
+After four months of development, the system was fully functional and integrated into OpenClass. Instructors could now generate polished assignments in minutes, freeing up more time for teaching and research. The response from both instructors and students was enthusiastic, and the final engineering integration was completed by my teammate **Alec**.
+
+## See It in Action
+
+You can watch the walkthrough video here:  
+[![Watch the video](https://img.youtube.com/vi/MidtF8TrSLU/0.jpg)](https://www.youtube.com/watch?v=MidtF8TrSLU)
+
+
