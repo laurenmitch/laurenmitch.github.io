@@ -8,7 +8,7 @@
   description: Helping instructors move from learning objectives to digital assignments faster. 
   url: /project/ai
   show: true
-  external: true
+  external: false
   id: desktop
 - title: GitHub Data Science Portfolio
   description: A selection of some of my early data science projects.
