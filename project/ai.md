@@ -1,6 +1,6 @@
 ---
 title: Lauren Mitchell | AI Assignment Generator
-tag: AI
+tag: AI Assignment Generator
 type: project
 layout: project
 image: "/img/og-img.png"
@@ -30,7 +30,7 @@ After four months of development, the system was fully functional and integrated
 
 ## See It in Action
 
-You can watch the walkthrough video here:  
+You can watch the walkthrough video on Youtube by clicking the image below:  
 [![Watch the video](https://img.youtube.com/vi/MidtF8TrSLU/0.jpg)](https://www.youtube.com/watch?v=MidtF8TrSLU)
 
 
