@@ -6,7 +6,7 @@
   id: oakland
 - title: AI Assignment Generator
   description: Helping instructors move from learning objectives to digital assignments faster. 
-  url: https://openclass.ai/
+  url: /project/ai
   show: true
   external: true
   id: desktop
