@@ -6,9 +6,7 @@ layout: project
 image: "/img/og-img.png"
 ---
 
-# Building an AI-Powered Assignment Generator
-
-When I joined **OpenClass** as an AI Engineer, I wanted to explore how large language models could make instructors’ work easier. After completing a focused study in machine learning, I began experimenting with **OpenAI models**, **LangChain**, and the **OpenAI API** to create tools that could generate educational content more efficiently. My early experiments with **few-shot prompting** showed promise, but I wanted to take things further by embedding this intelligence directly into the teaching platform.
+When I joined **OpenClass**, I wanted to explore how large language models could make instructors’ work easier. After completing a focused study in machine learning, I began experimenting with **OpenAI models**, **LangChain**, and the **OpenAI API** to create tools that could generate educational content more efficiently. My early experiments with **few-shot prompting** showed promise, but I wanted to take things further by embedding this intelligence directly into the teaching platform.
 <br><br>
 
 ## Understanding the Problem
