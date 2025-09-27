@@ -13,7 +13,7 @@ image: "/img/og-img.png"
 
 ### PCE in Groundwater May 2012
 
-My first exposure to data visualization was in my GIS minor in college. I then applied that knowledge in the early days of my career as a geologist, conducting fieldwork collecting groundwater samples and then mapping those samples' chemical concentrations using ArcGIS. 
+My first exposure to data visualization was in my GIS (Geographic Information Systems) minor in college. I then applied that knowledge in the early days of my career as a geologist, conducting fieldwork collecting groundwater samples and then mapping those samples' chemical concentrations using ArcGIS. 
 
 What started as a technical requirement became something more interesting—taking invisible underground contamination and giving it shape and meaning on a map. Each contour line represents contamination levels that affect real communities. This example data was sourced from [GeoTracker](https://geotracker.waterboards.ca.gov/profile_report?global_id=SLT3S5581367) and was not a client project.
 <br><br>
