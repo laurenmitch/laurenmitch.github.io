@@ -78,33 +78,6 @@ hr.accent {
   }
 }
 
-.writing-preview {
-  padding-top: 80px;
-  font-size: 20px;
-
-  .post-container {
-    display: flex;
-    flex-wrap: nowrap;
-    width: 100%;
-    justify-content: space-between;
-  }
-
-  .post-link {
-    font-weight: normal;
-    width: 48%;
-  }
-
-  .back {
-    margin: 0;
-    padding: 24px 0 80px;
-    display: inline-block;
-
-    &:hover span {
-      transform: translateX(5px);
-    }
-  }
-}
-
 .note span  {
   transition: 0.15s ease box-shadow;
   box-shadow: inset 0px 0px 0px 0px lighten($red, 30%);
