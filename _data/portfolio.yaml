@@ -14,7 +14,7 @@
   description: A selection of some of my early data science projects.
   url: https://github.com/laurenmitch/DataSciencePortfolio
   show: true
-  external: false
+  external: true
   id: cli
 - title: Visualization
   description: A look at my journey with data visualization. 
