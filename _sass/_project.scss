@@ -124,9 +124,12 @@
 /* ===== Aside boxes (asides / definitions in case studies) ===== */
 .case-study-content .aside {
   background: $beige;
-  border: 1px solid $black;
-  padding: 18px 24px 22px;
-  margin: 30px 0;
+  border: none;
+  border-left: 3px solid $highlight;
+  border-radius: 2px 14px 14px 2px;
+  padding: 22px 28px 26px;
+  margin: 36px 0;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.06);
 
   @include mq($tablet) {
     width: 80%;
@@ -136,13 +139,16 @@
     display: block;
     font-family: $sans-text;
     font-size: $f6;
+    font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
+    letter-spacing: 0.1em;
     color: $gray-dark;
   }
 
   p {
-    margin-top: 8px;
-    font-style: italic;
+    margin-top: 10px;
+    font-family: $sans-text;
+    font-style: normal;
+    line-height: 1.55;
   }
 }
