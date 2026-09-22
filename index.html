@@ -10,9 +10,9 @@ image: "/img/og-img.png"
   <div class="home">
     <div class="intro">
       <div>
-        <h1><span class="hint" title="Type my name and see what happens">Lauren</span> Mitchell</h1>—Lead Data Analyst at Knowi.
+        <h1><span class="hint" title="Type my name and see what happens">Lauren</span> Mitchell</h1>, Lead Data Analyst at Knowi.
       </div>
-      <div>Data problem solver with a passion for AI and data visualization, aiming to shape a career that sits at the intersection of science, education, and data.<span class="accent superscript" id="asterisk" onmouseover="addClass(asterisk2, 'footnote-accent');" onmouseout="removeClass(asterisk2, 'footnote-accent');">*</span></div>
+      <div>Data problem solver with a passion for data visualization, aiming to shape a career that sits at the intersection of science, education, and data.<span class="accent superscript" id="asterisk" onmouseover="addClass(asterisk2, 'footnote-accent');" onmouseout="removeClass(asterisk2, 'footnote-accent');">*</span></div>
       <hr class="accent">
     </div>
     <div class="flex">
@@ -21,7 +21,7 @@ image: "/img/og-img.png"
         {% for item in site.data.portfolio %}
           {% if item.show %}
           <a class="project" id="{{ item.id }}" onmouseover="addClass(body, '{{ item.id }}');" onmouseout="removeClass(body, '{{ item.id }}');" href="{{ item.url }}">
-            <b>{{ item.title }}</b>—{{ item.description }}{% if item.external%}<span class="accent external-link">&#8599;&#xFE0E;</span>{% endif %}
+            <b>{{ item.title }}</b>: {{ item.description }}{% if item.external%}<span class="accent external-link">&#8599;&#xFE0E;</span>{% endif %}
           </a>
           {% endif %}
         {% endfor %}

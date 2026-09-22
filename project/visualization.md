@@ -15,7 +15,7 @@ image: "/img/og-img.png"
 
 My first exposure to data visualization was in my GIS (Geographic Information Systems) minor in college. I then applied that knowledge in the early days of my career as a geologist, conducting fieldwork collecting groundwater samples and then mapping those samples' chemical concentrations using ArcGIS. 
 
-What started as a technical requirement became something more interesting—taking invisible underground contamination and giving it shape and meaning on a map. Each contour line represents contamination levels that affect real communities. This example data was sourced from [GeoTracker](https://geotracker.waterboards.ca.gov/profile_report?global_id=SLT3S5581367) and was not a client project.
+What started as a technical requirement became something more interesting, taking invisible underground contamination and giving it shape and meaning on a map. Each contour line represents contamination levels that affect real communities. This example data was sourced from [GeoTracker](https://geotracker.waterboards.ca.gov/profile_report?global_id=SLT3S5581367) and was not a client project.
 <br><br>
 <br><br>
 
@@ -28,7 +28,7 @@ What started as a technical requirement became something more interesting—taki
 
 This was one of my first explorations into creating more stylized data visualizations designed for print or posters. I sourced the data from the Women Entrepreneurship Index and Global Entrepreneurship Index Report and designed it with the use of Charticulator, a Microsoft tool.
 
-I was curious about pushing beyond purely functional visualizations toward something that could work as designed communication—data that could live on a wall, not just in a report.
+I was curious about pushing beyond purely functional visualizations toward something that could work as designed communication: data that could live on a wall, not just in a report.
 <br><br>
 <br><br>
 
@@ -67,7 +67,7 @@ The traditional 12 month calendar was converted into a circle to represent the c
 
 This simple visualization of album release dates tells the complex story of these classic rock bands and the impact they've had on music history. 
 
-It's a reminder that effective data visualization isn't always about complexity—sometimes the most compelling stories emerge from the simplest datasets.
+It's a reminder that effective data visualization isn't always about complexity; sometimes the most compelling stories emerge from the simplest datasets.
 <br><br>
 <br><br>
 
@@ -80,7 +80,7 @@ It's a reminder that effective data visualization isn't always about complexity�
 
 This visualization tells the story of the electric vehicle in the US over approximately the past decade. In 2000 hybrid vehicles were first sold and took off. In 2010 electric and plug-in hybrid electric vehicles were introduced to the market. Hybrid electric vehicles still outnumber electric and plug-in hybrid electric vehicles.
 
-The data for this visualization was sourced from the National Transportation Statistics 2021 Annual Report, which is a publicly available document. What interests me about this dataset is how it captures a major industry transformation in progress—the shift toward more sustainable transportation happening in real time.
+The data for this visualization was sourced from the National Transportation Statistics 2021 Annual Report, which is a publicly available document. What interests me about this dataset is how it captures a major industry transformation in progress: the shift toward more sustainable transportation happening in real time.
 <br><br>
 <br><br>
 
