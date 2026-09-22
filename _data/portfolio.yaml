@@ -1,6 +1,6 @@
 - title: Oakland Crimewatch Dashboards
   description: Visualizing Oakland crime data using the City of Oakland’s open data API and Knowi’s platform.
-  url: https://www.knowi.com/d/lCr8AgwmhRVUOFKWbJI4f5m3pCfz5YkQaqG2Y7yec3gie
+  url: https://oaklandcrimewatch.com/
   show: true
   external: true
   id: oakland

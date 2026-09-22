@@ -120,3 +120,29 @@
 }
 
 
+
+/* ===== Aside boxes (asides / definitions in case studies) ===== */
+.case-study-content .aside {
+  background: $beige;
+  border: 1px solid $black;
+  padding: 18px 24px 22px;
+  margin: 30px 0;
+
+  @include mq($tablet) {
+    width: 80%;
+  }
+
+  .aside-label {
+    display: block;
+    font-family: $sans-text;
+    font-size: $f6;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: $gray-dark;
+  }
+
+  p {
+    margin-top: 8px;
+    font-style: italic;
+  }
+}
